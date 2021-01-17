@@ -1,3 +1,0 @@
-# trexRunner
-Trex game
-Trex
